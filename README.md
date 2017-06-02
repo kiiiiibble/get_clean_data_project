@@ -1,4 +1,4 @@
-# Getting and Cleaning Data Course Project Introduction
+# Introduction
 
 This repository contains the files for submission for Coursera's Getting and Cleaning Data Course Project. The project requires downloading the dataset [here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) and creating an R script that does the following:
 
